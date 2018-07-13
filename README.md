@@ -38,7 +38,7 @@ End For
 
 ## Example with explanation:
 
-> Suppose we have six nodes [0, 1, 2, 3, 4 and 5] are arranged and rewards are assigned to each link between the nodes. Links which are attached to destination node assigned by reward 100, nodes which are just connected that link assigned zero and nodes which are not connected are assigned by reward -1 as follows.
+> Suppose we have Eleven nodes [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 and 11] are arranged and rewards are assigned to each link between the nodes. Links which are attached to destination node that is 10 assigned by reward 100, nodes which are just connected that link assigned zero and nodes which are not connected are assigned by reward -1 as follows.
 
 > This R_Table is provided to Brain of agent which will help in calculating the corresponding Q value. The path which possess maximum Q value that path have to be choose which is optimum path. Initially Q values assign with zero.
 
