@@ -44,5 +44,5 @@ End For
 
 > ![screenshot 839](https://user-images.githubusercontent.com/32256364/42685099-bb11f306-86af-11e8-97e6-16449b83e048.png)
 
-
+> From above output image we can easily say that this is the shortest path from any source node to destination node 10.
 
